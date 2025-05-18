@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Sakthivelan
 
-🎓 **Computer Science Student**  
+🎓 **Artificial Intelligence and Data Science Student**  
 Kongunadu College of Engineering and Technology  
 Batch: 2022–2026 | Tamil Nadu, India  
 
@@ -15,9 +15,9 @@ I’m passionate about solving real-world problems using open-source technologie
 - 🚀 I’m currently focused on:
   - **DevOps tools**: Docker, Jenkins, Kubernetes, Git
   - **Cloud**: AWS Certified Cloud Practitioner
-  - **OS**: Ubuntu, Parrot OS (for ethical hacking and security)
+  - **OS**: Ubuntu,Windows
   - **AI/ML & Deep Learning** for Tamil scripts and image processing
-- 🏡 I’m from a village near **Thalaimalai**, Tamil Nadu, and I’m keen to digitally develop the local area.
+- 🏡 I’m from a Poolancheri, Musiri, Trichy , Tamil Nadu, and I’m keen to digitally develop the local area.
 
 ---
 
@@ -65,9 +65,9 @@ I’m passionate about solving real-world problems using open-source technologie
 
 ## 🗣️ Languages
 
-- 💬 Tamil (Native)
-- 🇬🇧 English (Proficient)
-- 🇩🇪 German (Learning – for global career opportunities)
+-  Tamil (Native)
+-  English (Proficient)
+
 
 ---
 
